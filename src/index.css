@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,200&display=swap");
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  @apply bg-white rounded overflow-hidden shadow-md relative;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#map {
+  height: 500px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,41 @@
+{
+  "blog": [
+    {
+      "title": "Jenis-Jenis Kolam Renang",
+      "date": "22 November 2021",
+      "text": "Berbagai macam kolam renang di buat orang dan dilengkapi fasilitas dan perlengkapan lainnya berdasarkan arsitektur dan konstruksi yang memadai. Kolam renang ini biasannya di sebut dengan kolam renang buatan atau “artificial bething\n          places”.\n          \\n\n          - Macam-Macam Kolam Renang\n          Kolam renang di pandang dari segi lokasi dapat dibedakan menjadi dua\n          macam, yaitu :\n          a. Indoor-pool, yaitu kolam renang yang berlokasi di halaman perumahan atau pemukiman penduduk. Koalm renang seperti ini biasanya dimiliki dan diperuntukkan bagi perseorangan atau kelompok yang digunakan untuk keluarga atau tamu-tamunya.\n          b. Outdoor-pool, yaitu kolam renang yang berlokasi di luar halaman pemukiman penduduk, kolam renang semacam ini biasanya diperuntukan bagi umum.\n          \n          - Tipe Kolam Renang\n          Kolam renang buatan pada umumnya dibedakan berdasarkan cara penggantian atau pengolahan airnya, dalam hal ini maka kolam renang dibagi menjadi beberapa tipe antara lain : \n          Fill and draw fools\nTipe kolam renang ini menggunakan air kolamnya secara terus menerus dalam satu priode waktu tertentu. Setelah air kolam tampak kotor baru dikuras/dibuang kemudian seluruhnya diganti dengan air yang baru dan bersih.Untuk menentukan kotor tidaknya air adalah dengan melihat keadaan fisik air tersebut atau dari jumlah perenang. Tipe yang seperti ini adalah tipe yang paling tidak baik.\nb. Flow through pools\nPada tipe ini air kolam mengalir terus menerus setiap saat sehingga air kolam senantiasa dalam keadaan bersih. Hal ini disebabkan karena air yang baru, kolam renang tipe ini adalah yang terbaik tetapi membutuhkan banyak air. Kolam renang tipe ini umumnya terdapat di daerah pegunungan atau tempat-tempat yang ada sumber airnya.\nc. Recirculating pools (kolam renang resirkulasi)\nPada tipe ini air kolam renang yang telah dipakai dan kotor secara terus menerus (berputar) dialirkan melalui instalasi-instalasi penyaringan (filteroffilter) dan dipompa kembali kedalam kolam renang setelah bersih dan didesinfektan dengan zat chlor. Kolam renang tipe ini adalah hemat sekali, karena tidak begitu membutuhkan banyak air asalkan harus dijaga bahwa proses penyaringan dan pendesinfeksian air tersebut harus berjalan\ndengan baik.",
+      "imgSrc": "https://images.unsplash.com/photo-1543489822-c49534f3271f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+      "id": 6
+    },
+    {
+      "title": "Cara Perawatan Kolam Renang",
+      "date": "25 November 2021",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imgSrc": "https://images.unsplash.com/photo-1534009502677-4e5080efa8c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "id": 7
+    }
+  ],
+  "productn": [
+    {
+      "title": "Toya Devasya",
+      "date": "0891263182321",
+      "text": "Jln. Mawarpucukkuning21, Malang",
+      "id": 1
+    },
+    {
+      "title": "Agung Khalia",
+      "date": "085671412012",
+      "text": "Jln. Bougenville No 21 B",
+      "id": 3
+    }
+  ],
+  "servicen": [
+    {
+      "title": "Pool Maintanance",
+      "date": "Ready",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imgSrc": "https://images.unsplash.com/photo-1513467535987-fd81bc7d62f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+      "id": 1
+    }
+  ]
+}
